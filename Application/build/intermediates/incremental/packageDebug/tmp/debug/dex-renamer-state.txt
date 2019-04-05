@@ -1,4 +1,0 @@
-#Fri Apr 05 13:53:03 MMT 2019
-base.0=D\:\\Yan\\DownloadedProjects\\android-MediaBrowserService\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
